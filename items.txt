@@ -1,0 +1,18 @@
+Fruits
+Shopping Cart
+Cereal
+Milk
+Bread
+Eggs
+Meat
+Chicken
+Beef
+Grocery
+Dairy
+Organic
+Bag
+Spinach
+Olives
+Garlic
+Pineapple
+Grapefruit
